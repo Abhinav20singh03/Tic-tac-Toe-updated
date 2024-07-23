@@ -1,3 +1,4 @@
+
 let first = 0;
 let ele=101;
 function checker(arr) {
@@ -26,9 +27,9 @@ box1.addEventListener('click', function() {
     let ele = document.getElementById("box1");
     let img = document.createElement('img');
      if(first==0){
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__1_-removebg-preview.png');
+    img.setAttribute('src', 'both__1_-removebg-preview.png');
     }else{
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__2_-removebg-preview.png');
+    img.setAttribute('src', 'both__2_-removebg-preview.png');
     }
     img.style.width = '50%';
     img.style.height = '50%';
@@ -57,9 +58,9 @@ box2.addEventListener('click',function(){
 let ele = document.getElementById("box2");
 let img = document.createElement('img');
      if(first==0){
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__1_-removebg-preview.png');
+    img.setAttribute('src', 'both__1_-removebg-preview.png');
     }else{
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__2_-removebg-preview.png');
+    img.setAttribute('src', 'both__2_-removebg-preview.png');
     }
     img.style.width = '50%';
     img.style.height = '50%';
@@ -88,9 +89,9 @@ box3.addEventListener('click',function(){
 let ele = document.getElementById("box3");
 let img = document.createElement('img');
      if(first==0){
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__1_-removebg-preview.png');
+    img.setAttribute('src', 'both__1_-removebg-preview.png');
     }else{
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__2_-removebg-preview.png');
+    img.setAttribute('src', 'both__2_-removebg-preview.png');
     }
        img.style.width = '50%';
     img.style.height = '50%';
@@ -119,9 +120,9 @@ box4.addEventListener('click',function(){
 let ele = document.getElementById("box4");
 let img = document.createElement('img');
      if(first==0){
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__1_-removebg-preview.png');
+    img.setAttribute('src', 'both__1_-removebg-preview.png');
     }else{
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__2_-removebg-preview.png');
+    img.setAttribute('src', 'both__2_-removebg-preview.png');
     }
        img.style.width = '50%';
     img.style.height = '50%';
@@ -150,9 +151,9 @@ box5.addEventListener('click',function(){
 let ele = document.getElementById("box5");
 let img = document.createElement('img');
      if(first==0){
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__1_-removebg-preview.png');
+    img.setAttribute('src', 'both__1_-removebg-preview.png');
     }else{
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__2_-removebg-preview.png');
+    img.setAttribute('src', 'both__2_-removebg-preview.png');
     }
        img.style.width = '50%';
     img.style.height = '50%';
@@ -181,9 +182,9 @@ box6.addEventListener('click',function(){
 let ele = document.getElementById("box6");
 let img = document.createElement('img');
      if(first==0){
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__1_-removebg-preview.png');
+    img.setAttribute('src', 'both__1_-removebg-preview.png');
     }else{
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__2_-removebg-preview.png');
+    img.setAttribute('src', 'both__2_-removebg-preview.png');
     }
        img.style.width = '50%';
     img.style.height = '50%';
@@ -213,9 +214,9 @@ box7.addEventListener('click',function(){
 let ele = document.getElementById("box7");
 let img = document.createElement('img');
      if(first==0){
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__1_-removebg-preview.png');
+    img.setAttribute('src', 'both__1_-removebg-preview.png');
     }else{
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__2_-removebg-preview.png');
+    img.setAttribute('src', 'both__2_-removebg-preview.png');
     }
        img.style.width = '50%';
     img.style.height = '50%';
@@ -244,9 +245,9 @@ box8.addEventListener('click',function(){
 let ele = document.getElementById("box8");
 let img = document.createElement('img');
      if(first==0){
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__1_-removebg-preview.png');
+    img.setAttribute('src', 'both__1_-removebg-preview.png');
     }else{
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__2_-removebg-preview.png');
+    img.setAttribute('src', 'both__2_-removebg-preview.png');
     }
        img.style.width = '50%';
     img.style.height = '50%';
@@ -275,9 +276,9 @@ box9.addEventListener('click',function(){
 let ele = document.getElementById("box9");
 let img = document.createElement('img');
     if(first==0){
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__1_-removebg-preview.png');
+    img.setAttribute('src', 'both__1_-removebg-preview.png');
     }else{
-    img.setAttribute('src', './Tic-tac-Toe-updated/both__2_-removebg-preview.png');
+    img.setAttribute('src', 'both__2_-removebg-preview.png');
     }
        img.style.width = '50%';
     img.style.height = '50%';
