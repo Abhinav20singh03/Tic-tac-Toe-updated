@@ -49,7 +49,12 @@ box1.addEventListener('click', function() {
     if(first==1)first=0;
     else first=1;
     if(checker(arr)){
-        alert("winner")
+        let mess ="";
+        if(first==0)
+            mess+="O is Winner"
+        else 
+            mess+="X is Winner"
+        alert(mess)
         window.location.reload();
     }
 }, { once: true });
@@ -80,7 +85,12 @@ arr[0][1]=first;
 if(first==1)first=0;
     else first=1;
     if(checker(arr)){
-        alert("winner")
+        let mess ="";
+        if(first==0)
+            mess+="O is Winner"
+        else 
+            mess+="X is Winner"
+        alert(mess)
         window.location.reload();
     }
 }, { once: true });
@@ -111,7 +121,12 @@ arr[0][2]=first;
 if(first==1)first=0;
     else first=1;
      if(checker(arr)){
-        alert("winner")
+        let mess ="";
+        if(first==0)
+            mess+="O is Winner"
+        else 
+            mess+="X is Winner"
+        alert(mess)
         window.location.reload();
     }
 }, { once: true });
@@ -142,7 +157,12 @@ arr[1][0]=first;
 if(first==1)first=0;
     else first=1;
      if(checker(arr)){
-        alert("winner")
+        let mess ="";
+        if(first==0)
+            mess+="O is Winner"
+        else 
+            mess+="X is Winner"
+        alert(mess)
         window.location.reload();
     }
 }, { once: true });
@@ -173,7 +193,12 @@ arr[1][1]=first;
 if(first==1)first=0;
     else first=1;
      if(checker(arr)){
-        alert("winner")
+        let mess ="";
+        if(first==0)
+            mess+="O is Winner"
+        else 
+            mess+="X is Winner"
+        alert(mess)
         window.location.reload();
     }
 }, { once: true });
@@ -204,7 +229,12 @@ arr[1][2]=first;
 if(first==1)first=0;
     else first=1;
      if(checker(arr)){
-        alert("winner")
+        let mess ="";
+        if(first==0)
+            mess+="O is Winner"
+        else 
+            mess+="X is Winner"
+        alert(mess)
         window.location.reload();
     }
 
@@ -236,7 +266,12 @@ arr[2][0]=first;
 if(first==1)first=0;
     else first=1;
      if(checker(arr)){
-        alert("winner")
+        let mess ="";
+        if(first==0)
+            mess+="O is Winner"
+        else 
+            mess+="X is Winner"
+        alert(mess)
         window.location.reload();
     }
 }, { once: true });
@@ -267,7 +302,12 @@ arr[2][1]=first;
 if(first==1)first=0;
     else first=1;
      if(checker(arr)){
-        alert("winner")
+        let mess ="";
+        if(first==0)
+            mess+="O is Winner"
+        else 
+            mess+="X is Winner"
+        alert(mess)
         window.location.reload();
     }
 }, { once: true });
@@ -298,7 +338,12 @@ arr[2][2]=first;
 if(first==1)first=0;
     else first=1;
      if(checker(arr)){
-        alert("winner")
+        let mess ="";
+        if(first==0)
+            mess+="O is Winner"
+        else 
+            mess+="X is Winner"
+        alert(mess)
         window.location.reload();
     }
 }, { once: true });
